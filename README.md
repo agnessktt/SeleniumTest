@@ -37,6 +37,8 @@ Trong bài thực hành này, Selenium IDE được sử dụng trên trình duy
 * Trang Wikipedia được mở thành công.
 * Tiêu đề trang là "Wikipedia".
 
+![TC1](images/wikipedia.png)
+
 ---
 
 ### TC2 - Mở trang chủ Google
@@ -62,6 +64,8 @@ Trong bài thực hành này, Selenium IDE được sử dụng trên trình duy
 * Trang Google được mở thành công.
 * Tiêu đề trang là "Google".
 
+![TC2](images/google.png)
+
 ---
 
 ### TC3 - Thao tác với Checkbox
@@ -85,6 +89,8 @@ Trong bài thực hành này, Selenium IDE được sử dụng trên trình duy
 #### Kết quả mong đợi
 
 * Checkbox đầu tiên được chọn thành công.
+
+![TC3](images/checkbox.png)
 
 ---
 
